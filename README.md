@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/lenny93/Canyon/master/Resources/logo.png" alt="Canyon" width="180" height="50"/>
 
+<img src="https://raw.githubusercontent.com/lenny93/Canyon/master/Resources/screenshot.png" alt="Screenshot"/>
+
 Canyon VPN creates a virtual LAN network between you and your friends that works as if you were connected physically. You can play games, send files, securely chat with your friends, and more.
 
 Features
