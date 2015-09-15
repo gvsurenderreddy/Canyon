@@ -69,11 +69,9 @@ void Canyon::OnNotificationAction(bool accept)
 	}
 	else if(not->m_type == NOTIFICATION_DOWNLOAD)
 	{
-		// dukto.rejectdownload
 	}
 	else if(not->m_type == NOTIFICATION_PROGRESS)
 	{
-		// dukto.canceldownload
 	}
 
 	form.ui.verticalLayout_8->removeWidget(not);
@@ -120,7 +118,6 @@ void Canyon::OnMessageSend(Peer* peer, QString message)
 {
 	 if(peer->status & STATUS_DUKTO_ONLINE)
 	 {
-		 //dukto.sendmessage(peer, message);
 	 }
 	 else
 	 {

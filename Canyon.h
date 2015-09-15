@@ -10,7 +10,6 @@
 #include "MainForm.h"
 #include "Server.h"
 #include "Tincan.h"
-#include "Dukto.h"
 #include "Peer.h"
 #include "Notification.h"
 
@@ -59,7 +58,6 @@ public:
 	MainForm form;
 	Server server;
 	Tincan tincan;
-	Dukto dukto;
 	QTimer timerTrim;
 	QTimer timerReconnect;
 

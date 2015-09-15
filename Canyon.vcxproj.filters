@@ -98,9 +98,6 @@
     <ClCompile Include="Tincan.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Dukto.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="GeneratedFiles\Debug\moc_Tincan.cpp">
       <Filter>Generated Files\Debug</Filter>
     </ClCompile>
@@ -164,12 +161,6 @@
     <ClCompile Include="GeneratedFiles\Release\moc_QWsSocket.cpp">
       <Filter>Generated Files\Release</Filter>
     </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_Dukto.cpp">
-      <Filter>Generated Files\Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_Dukto.cpp">
-      <Filter>Generated Files\Release</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="mainform.ui">
@@ -231,9 +222,6 @@
     </CustomBuild>
     <CustomBuild Include="websockets\QWsSocket.h">
       <Filter>websockets</Filter>
-    </CustomBuild>
-    <CustomBuild Include="Dukto.h">
-      <Filter>Header Files</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
