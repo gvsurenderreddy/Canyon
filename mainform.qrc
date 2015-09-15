@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/MainForm">
+        <file>Resources/buttons/Add-New.png</file>
+        <file>Resources/buttons/Add-New-Over.png</file>
+        <file>Resources/buttons/Logout.png</file>
+        <file>Resources/buttons/Logout-Over.png</file>
+        <file>Resources/buttons/Settings.png</file>
+        <file>Resources/buttons/Settings-Over.png</file>
+        <file>Resources/button_add_over.png</file>
+        <file>Resources/button_add.png</file>
+        <file>Resources/notification_file.png</file>
+        <file>Resources/notification_accept.png</file>
+        <file>Resources/notification_accept_over.png</file>
+        <file>Resources/Canyon.ico</file>
+        <file>Resources/logo.png</file>
+        <file>Resources/notification_cancel.png</file>
+        <file>Resources/notification_cancel_over.png</file>
+        <file>Resources/bg-login.png</file>
+        <file>Resources/btnarrow.png</file>
+        <file>Resources/down-arrow.png</file>
+        <file>Resources/left-arrow.png</file>
+        <file>Resources/loading.gif</file>
+        <file>Resources/right-arrow.png</file>
+        <file>Resources/scroll-gripper.png</file>
+        <file>Resources/up-arrow.png</file>
+        <file>appbar.settings.png</file>
+        <file>Resources/localhost.crt</file>
+        <file>Resources/dot-green.png</file>
+        <file>Resources/dot-grey.png</file>
+        <file>Resources/dot-yellow.png</file>
+        <file>Resources/icon.png</file>
+        <file>Resources/checkmark.png</file>
+        <file>Resources/dark.css</file>
+    </qresource>
+</RCC>
